@@ -105,3 +105,7 @@ Completing this task has enhanced my ability to build interactive web applicatio
 🔹 Application Scope: Education, Corporate Training, Gaming, Surveys
 🔹 Submission: Uploaded to GitHub for version control and evaluation.
 
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/02ecc5ff-f409-4092-a921-1f2b023a263e)
